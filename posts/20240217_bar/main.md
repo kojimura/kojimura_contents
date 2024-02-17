@@ -5,5 +5,8 @@ Copywrite: (C) 2023 Koji Murakami
 
 # title
 
-Write contents here.
+new post.
+push github.
+making script.
+
 
