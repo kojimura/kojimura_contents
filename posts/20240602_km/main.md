@@ -13,7 +13,7 @@ family trip
 
 ![shore](./IMG_0211.jpeg)
 
-##<span id="dinner">dinner</span>
+## <span id="dinner">dinner</span>
 
 ![](IMG_0209.jpeg)
 
