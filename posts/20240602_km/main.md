@@ -1,5 +1,5 @@
 ---
-Keywords:inatori
+Keywords: inatori
 Copywrite: (C) 2024 Koji Murakami
 ---
 
