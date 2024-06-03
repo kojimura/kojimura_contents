@@ -1,9 +1,26 @@
 ---
-Keywords:
-Copywrite: (C) 2023 Koji Murakami
+Keywords:inatori
+Copywrite: (C) 2024 Koji Murakami
 ---
 
-# title
+# inatori-so
 
-making cgi by shell
+family trip
+
+*[dinner](#dinner)
+
+## shore
+
+![shore](./shore.jpeg)
+
+##<span id="dinner">dinner</span>
+
+![](dinner.jpeg)
+
+## document
+
+[inatori.pdf]
+[Wikipedia](https://ja.wikipedia.org/wiki/%E7%86%B1%E6%B5%B7%E6%B8%A9%E6%B3%89)
+
+
 
