@@ -6,4 +6,3 @@ Copywrite: (C) 2024 Koji Murakami
 # kojimuracms
 
 under construction
-
