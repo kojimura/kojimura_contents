@@ -5,7 +5,7 @@ Copywrite: (C) 2024 Koji Murakami
 
 # HTML記事埋め込み
 
-upload some pictures
+upload some pictures!
 
 ## X(Twitter)
 
