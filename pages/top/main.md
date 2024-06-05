@@ -1,8 +1,8 @@
 ---
 Keywords: kojimura,bash
-Copywrite: (C) 2024 Koji Murakami
+Copyright: (C) 2024 Koji Murakami
 ---
 
-# kojimuracms
+# kojimura lab
 
 under construction
