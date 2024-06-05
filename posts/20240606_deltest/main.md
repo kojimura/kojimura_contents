@@ -1,6 +1,6 @@
 ---
-Keywords:
-Copywrite: (C) 2024 Koji Murakami
+Keywords: deltest
+Copyright: (C) 2024 Koji Murakami
 ---
 
 # title

@@ -1,6 +1,6 @@
 ---
 Keywords: inatori
-Copywrite: (C) 2024 Koji Murakami
+Copyright: (C) 2024 Koji Murakami
 ---
 
 # いなとり壮 

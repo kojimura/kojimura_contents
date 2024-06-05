@@ -1,6 +1,6 @@
 ---
 Keywords:
-Copywrite: (C) 2024 Koji Murakami
+Copyright: (C) 2024 Koji Murakami
 ---
 
 # title
