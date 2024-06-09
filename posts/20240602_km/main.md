@@ -18,7 +18,5 @@ Copyright: (C) 2024 Koji Murakami
 ![](IMG_0209.jpeg)
 
 ## document
-
 [pdf](inatoriso.pdf)
 [Wikipedia](https://ja.wikipedia.org/wiki/%E7%86%B1%E6%B5%B7%E6%B8%A9%E6%B3%89)
-

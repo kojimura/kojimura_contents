@@ -10,12 +10,7 @@ Copyright: (C) 2024 Koji Murakami
 upload contents!
 
 ## X(Twitter)
-
-
 ## Instagram
-
-
 ## Line
-
 ## facebook
 

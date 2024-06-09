@@ -1,9 +1,10 @@
 ---
-Keywords: test
+Keywords: noto
 Copyright: (C) 2024 Koji Murakami
 ---
 
-# title
+# noto
 
 20240108
 能登半島地震の件
+
