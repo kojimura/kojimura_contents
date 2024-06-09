@@ -7,7 +7,7 @@ Copyright: (C) 2024 Koji Murakami
 
 ## todo
 
-upload pictures!
+upload contents!
 
 ## X(Twitter)
 
