@@ -1,5 +1,5 @@
 ---
-Keywords:
+Keywords: koji, mura
 Copyright: (C) 2023 Koji Murakami
 ---
 

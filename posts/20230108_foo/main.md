@@ -1,5 +1,5 @@
 ---
-Keywords:
+Keywords: test
 Copyright: (C) 2024 Koji Murakami
 ---
 
