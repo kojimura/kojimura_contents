@@ -3,6 +3,7 @@ Keywords: kojimura,bash
 Copyright: (C) 2024 Koji Murakami
 ---
 
-# kojimulab
+# kojimlab
 
 under construction
+using sh
