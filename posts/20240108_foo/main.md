@@ -1,5 +1,5 @@
 ---
-Keywords: noto
+Keywords: noto,能登,地震
 Copyright: (C) 2024 Koji Murakami
 ---
 
