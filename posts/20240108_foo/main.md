@@ -1,5 +1,5 @@
 ---
-Keywords: noto,能登,地震
+Keywords: noto,能登,地震,earchquake
 Copyright: (C) 2024 Koji Murakami
 ---
 
