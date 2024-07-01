@@ -1,5 +1,5 @@
 ---
-Keywords: family, trip, 伊豆, 熱海
+Keywords: family, trip, 伊豆, 熱海, 温泉, 旅館, 家族, 旅行
 Copyright: (C) 2024 Koji Murakami
 ---
 
