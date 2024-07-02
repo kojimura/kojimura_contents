@@ -11,11 +11,11 @@ Copyright: (C) 2024 Koji Murakami
 
 ## 海岸
 
-![海岸](./IMG_0211.jpeg){width: 50%;}
+![海岸](./IMG_0211.jpeg){width:20%;}
 
 ## <span id="dinner">料理</span>
 
-![](IMG_0209.jpeg){width: 50%;}
+![](IMG_0209.jpeg){width:20%;}
 
 ## document
 [pdf](inatoriso.pdf)
