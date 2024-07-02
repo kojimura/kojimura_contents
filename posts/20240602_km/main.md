@@ -14,13 +14,13 @@ Copyright: (C) 2024 Koji Murakami
 <!--
 ![海岸](./IMG_0211.jpeg){ width=50% }
 -->
-<img src="IMG_0211.jpeg" width="50%" alter="海岸">
+<img src="IMG_0211.jpeg" width="60%" alter="海岸">
 
 ## <span id="dinner">料理</span>
 <!--
-![](IMG_0209.jpeg){width:50%;}
+![](IMG_0209.jpeg){width:60%;}
 -->
-<img src="IMG_0209.jpeg" width="50%">
+<img src="IMG_0209.jpeg" width="60%">
 
 ## document
 [pdf](./inatoriso.pdf)
