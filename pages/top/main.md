@@ -10,7 +10,8 @@ under construction!
 
 いろいろ試すための検証環境
 
-Reference to:
+# シェルでサイト構築中
+
 フルスクラッチから1日でCMSを作る_シェルスクリプト高速開発手法入門 改訂2版 (アスキードワンゴ) eBook : 上田 隆一, 後藤 大地, ＵＳＰ研究所
 https://amzn.to/4eYZoFN
 
