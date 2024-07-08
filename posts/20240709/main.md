@@ -3,6 +3,6 @@ Keywords: kojimura
 Copyright: (C) 2024 Koji Murakami
 ---
 
-# 東京都知事選
+# 朝から暑い
 
-絶望が続くことに衝撃を受けた
+とても暑い
