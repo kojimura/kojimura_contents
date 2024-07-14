@@ -5,9 +5,6 @@ Copyright: (C) 2024 Koji Murakami
 
 # kojimlab
 
-
-under construction!
-
 いろいろ試すための検証環境
 
 ### シェルでサイト構築中
